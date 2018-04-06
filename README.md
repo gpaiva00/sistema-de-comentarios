@@ -1,5 +1,8 @@
 # sistema-de-comentarios
 Sistema simples de comentários e respostas. Com botões de curtir também.
+Padrão de arquitetura usado: MVC
+Framework: Bootstrap
+Linguagens: PHP e Javascript
 
 
 
